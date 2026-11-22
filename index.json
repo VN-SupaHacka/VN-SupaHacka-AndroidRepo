@@ -3,5 +3,10 @@
         "version":"2.0.0",
         "patch":"patches/remember11.zip",
         "image":"images/remember11"
+    },
+    "Ever17" : {
+        "version":"0.0.0",
+        "patch":"patches/ever17.zip",
+        "image":"images/ever17"
     }
 }
