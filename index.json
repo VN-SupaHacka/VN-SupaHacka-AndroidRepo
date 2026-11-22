@@ -2,6 +2,6 @@
     "Remember11" : {
         "version":"2.0.0",
         "patch":"patches/remember11.zip",
-        "image":"logo/remember11.avif"
+        "image":"images/remember11"
     }
 }
